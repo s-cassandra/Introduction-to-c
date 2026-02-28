@@ -8,7 +8,6 @@ and outputs a fee.
 
 #include <stdio.h>
 
-//define the function here
 int baggage(int weight){
 	int total;
 
